@@ -1,7 +1,8 @@
 # Hi 👋, I'm Zay
 
 
-![Mobile Development](https://cdn.dribbble.com/users/1732368/screenshots/13842635/media/06fdccbc7f0e1d47237b588dc0dbdb42.gif)
+![Animation](https://cdn.dribbble.com/users/1732368/screenshots/13842635/media/06fdccbc7f0e1d47237b588dc0dbdb42.gif)
+
 
 ## 📱 About Me
 I am an experienced senior mobile developer with a strong background in creating exceptional applications for various industries. With over 7 years of experience, I specialize in native Android development using Kotlin and Java, as well as cross-platform development using Flutter.
