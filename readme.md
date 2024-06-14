@@ -1,7 +1,7 @@
 # Hi 👋, I'm Zay
 
 
-![Lottie Animation](https://lottie.host/embed/a54465a8-89f9-4607-a340-df21b8856fb6/j0MVDAKrro.json)
+![Mobile Development](https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif)
 
 ## 📱 About Me
 I am an experienced senior mobile developer with a strong background in creating exceptional applications for various industries. With over 7 years of experience, I specialize in native Android development using Kotlin and Java, as well as cross-platform development using Flutter.
