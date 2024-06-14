@@ -1,6 +1,6 @@
-# 👨‍💻 Mobile Developer
+# Hi 👋, I'm Zay
 
-[![Upwork Profile](https://img.shields.io/badge/Upwork-Profile-brightgreen)](https://www.upwork.com/freelancers/~01ca8406b5c01fc86c)
+[![Upwork Profile](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/240px-Upwork-logo.svg.png?20200619221931)](https://www.upwork.com/freelancers/~01ca8406b5c01fc86c)
 
 ## 📱 About Me
 I am an experienced senior mobile developer with a strong background in creating exceptional applications for various industries. With over 7 years of experience, I specialize in native Android development using Kotlin and Java, as well as cross-platform development using Flutter.
