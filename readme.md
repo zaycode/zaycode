@@ -1,4 +1,4 @@
-# 👨‍💻 Mobile Developer Portfolio
+# 👨‍💻 Mobile Developer
 
 [![Upwork Profile](https://img.shields.io/badge/Upwork-Profile-brightgreen)](https://www.upwork.com/freelancers/~01ca8406b5c01fc86c)
 
