@@ -1,6 +1,7 @@
 # Hi 👋, I'm Zay
 
-[![Upwork Profile](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/240px-Upwork-logo.svg.png?20200619221931)](https://www.upwork.com/freelancers/~01ca8406b5c01fc86c)
+
+![Banner](https://lottie.host/embed/a54465a8-89f9-4607-a340-df21b8856fb6/j0MVDAKrro.json)
 
 ## 📱 About Me
 I am an experienced senior mobile developer with a strong background in creating exceptional applications for various industries. With over 7 years of experience, I specialize in native Android development using Kotlin and Java, as well as cross-platform development using Flutter.
@@ -25,5 +26,10 @@ I am an experienced senior mobile developer with a strong background in creating
 - Email: [your-email@example.com](mailto:your-email@example.com)
 - Telegram: [@zaycode](https://t.me/zaycode)
 - Signal: [@zaycode.99](https://signal.group/#CjQKIPIeKv4z2boK2JO-V7xF-5U5x3AZeYrJ19kf04-JO35kDzv1M4ptY45_D4N-Pk0rS23O)
+
+---
+
+## 💼 Hire Me
+Looking for a skilled mobile developer for your project? Let's collaborate and create something amazing together! [Click here to hire me on Upwork](https://www.upwork.com/freelancers/~01ca8406b5c01fc86c) and discuss your requirements.
 
 Feel free to reach out for collaboration or project inquiries!
