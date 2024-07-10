@@ -24,7 +24,7 @@ I am an experienced senior mobile developer with a strong background in creating
 - [Lingo Mouse](https://play.google.com/store/apps/details?id=com.lingo_mouse&hl=en_US)
 
 ## 📞 Contact Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [syukurzay@gmai.com](mailto:syukurzay@gmail.com)
 - Telegram: [@zaycode](https://t.me/zaycode)
 - Signal: [@zaycode.99](https://signal.group/#CjQKIPIeKv4z2boK2JO-V7xF-5U5x3AZeYrJ19kf04-JO35kDzv1M4ptY45_D4N-Pk0rS23O)
 
